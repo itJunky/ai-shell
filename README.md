@@ -1,6 +1,6 @@
-## Ai shell ##
+# Ai shell #
 
-# Installation #
+## Installation ##
 
 **install ollama**
 ```snap install ollama```
@@ -14,5 +14,8 @@
 **Set executable flag for script**
 ```chmod +x ai-shell.sh```
 
-# Usage #
+## Usage ##
 ```./ai-shell.sh 'Show me files in folder by lines with description'```
+
+## Demo ##
+https://asciinema.org/a/xT0tk3oDWYhKk9KSHlJAjqZwS
