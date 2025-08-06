@@ -1,6 +1,8 @@
 # Ai shell #
 Just ask the computer a question in your native language and get the result without using any shell commands. Additionally, you can quickly learn shell commands since they are displayed on the screen before execution.
 
+Here is an extremely simple code because I like solving problems in the simplest possible ways.
+
 ## Installation ##
 
 **install ollama**
